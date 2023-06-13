@@ -11,4 +11,11 @@ game.
 
 Perhaps I'll finish it up soon. (update a decade later: ha!)
 
+To compile and run:
+
+```
+javac pacman/*.java
+java pacman.PacMan
+```
+
 ![pacman screeenshot](https://github.com/VioletJewel/i/blob/main/pacman.png)
