@@ -9,4 +9,6 @@ properly and there is a problem with ghost movement and they don't start as they
 This also does not implement the patterns that the ghosts follow in the original Pacman
 game.
 
-Perhaps I'll finish it up soon.
+Perhaps I'll finish it up soon. (update a decade later: ha!)
+
+![pacman screeenshot](https://github.com/VioletJewel/i/blob/main/pacman.png)
